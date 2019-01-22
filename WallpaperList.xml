@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C), 2018, TP-LINK TECHNOLOGIES CO., LTD.
+
+    Author:Luo Dinglun <luodinglun@tp-link.com.cn>
+
+    说明：
+    wpFileIndex：壁纸的实际名称索引，如wallpaper_15.png，其wpFileIndex为15
+
+    wpId：壁纸图片的资源id
+
+    wpIndex：壁纸的位置索引，如图片在预览页排在第一张，其wpIndex就为1
+-->
+<WallpaperList xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <WallpaperItem
+        app:wpFileIndex="1"
+        app:wpId="@drawable/wp_01"
+        app:wpIndex="1" />
+
+    <WallpaperItem
+        app:wpFileIndex="2"
+        app:wpId="@drawable/wp_02"
+        app:wpIndex="2" />
+
+    <WallpaperItem
+        app:wpFileIndex="3"
+        app:wpId="@drawable/wp_03"
+        app:wpIndex="3" />
+
+    <WallpaperItem
+        app:wpFileIndex="4"
+        app:wpId="@drawable/wp_04"
+        app:wpIndex="4" />
+
+    <WallpaperItem
+        app:wpFileIndex="5"
+        app:wpId="@drawable/wp_05"
+        app:wpIndex="5" />
+
+    <WallpaperItem
+        app:wpFileIndex="6"
+        app:wpId="@drawable/wp_06"
+        app:wpIndex="6" />
+
+    <WallpaperItem
+        app:wpFileIndex="15"
+        app:wpId="@drawable/wp_07"
+        app:wpIndex="7" />
+
+    <WallpaperItem
+        app:wpFileIndex="8"
+        app:wpId="@drawable/wp_08"
+        app:wpIndex="8" />
+
+    <WallpaperItem
+        app:wpFileIndex="9"
+        app:wpId="@drawable/wp_09"
+        app:wpIndex="9" />
+
+    <WallpaperItem
+        app:wpFileIndex="10"
+        app:wpId="@drawable/wp_10"
+        app:wpIndex="10" />
+
+    <WallpaperItem
+        app:wpFileIndex="11"
+        app:wpId="@drawable/wp_11"
+        app:wpIndex="11" />
+
+    <WallpaperItem
+        app:wpFileIndex="12"
+        app:wpId="@drawable/wp_12"
+        app:wpIndex="12" />
+
+    <WallpaperItem
+        app:wpFileIndex="13"
+        app:wpId="@drawable/wp_13"
+        app:wpIndex="13" />
+
+    <WallpaperItem
+        app:wpFileIndex="14"
+        app:wpId="@drawable/wp_14"
+        app:wpIndex="14" />
+
+    <WallpaperItem
+        app:wpFileIndex="07"
+        app:wpId="@drawable/wp_15"
+        app:wpIndex="15" />
+
+    <WallpaperItem
+        app:wpFileIndex="16"
+        app:wpId="@drawable/wp_16"
+        app:wpIndex="16" />
+
+    <WallpaperItem
+        app:wpFileIndex="17"
+        app:wpId="@drawable/wp_17"
+        app:wpIndex="17" />
+
+    <WallpaperItem
+        app:wpFileIndex="18"
+        app:wpId="@drawable/wp_18"
+        app:wpIndex="18" />
+
+    <WallpaperItem
+        app:wpFileIndex="19"
+        app:wpId="@drawable/wp_19"
+        app:wpIndex="19" />
+
+    <WallpaperItem
+        app:wpFileIndex="20"
+        app:wpId="@drawable/wp_20"
+        app:wpIndex="20" />
+
+</WallpaperList>
